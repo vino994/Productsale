@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Productsale.git/static/css/main.68cfd6ef.css",
-    "main.js": "/Productsale.git/static/js/main.6526baa0.js",
-    "static/js/787.e34f9fc2.chunk.js": "/Productsale.git/static/js/787.e34f9fc2.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Productsale.git/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/Productsale.git/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Productsale.git/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Productsale.git/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Productsale.git/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/Productsale.git/index.html",
-    "main.68cfd6ef.css.map": "/Productsale.git/static/css/main.68cfd6ef.css.map",
-    "main.6526baa0.js.map": "/Productsale.git/static/js/main.6526baa0.js.map",
-    "787.e34f9fc2.chunk.js.map": "/Productsale.git/static/js/787.e34f9fc2.chunk.js.map"
+    "main.css": "/Eproduct-details.git/static/css/main.35cbdb3c.css",
+    "main.js": "/Eproduct-details.git/static/js/main.e6f5b293.js",
+    "static/js/787.e34f9fc2.chunk.js": "/Eproduct-details.git/static/js/787.e34f9fc2.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Eproduct-details.git/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Eproduct-details.git/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Eproduct-details.git/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Eproduct-details.git/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Eproduct-details.git/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/Eproduct-details.git/index.html",
+    "main.35cbdb3c.css.map": "/Eproduct-details.git/static/css/main.35cbdb3c.css.map",
+    "main.e6f5b293.js.map": "/Eproduct-details.git/static/js/main.e6f5b293.js.map",
+    "787.e34f9fc2.chunk.js.map": "/Eproduct-details.git/static/js/787.e34f9fc2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.68cfd6ef.css",
-    "static/js/main.6526baa0.js"
+    "static/css/main.35cbdb3c.css",
+    "static/js/main.e6f5b293.js"
   ]
 }
